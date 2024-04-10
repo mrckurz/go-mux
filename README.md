@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/go.yml/badge.svg)
+![example workflow](https://github.com/mrckurz/go-mux/actions/workflows/go.yml/badge.svg)
 
 # go-mux: Microservice in GoTutorial
 
