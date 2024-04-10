@@ -1,3 +1,5 @@
+# Build Status Badge
+
 ![example workflow](https://github.com/mrckurz/go-mux/actions/workflows/go.yml/badge.svg)
 
 # go-mux: Microservice in GoTutorial
