@@ -1,5 +1,3 @@
-Travis-CI Build Status: [![Build Status](https://app.travis-ci.com/mrckurz/go-mux.svg?branch=master)](https://app.travis-ci.com/github/mrckurz/go-mux)
-
 # go-mux: Microservice in GoTutorial
 
 - Tutorial from [semaphoreci.com](https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql)
