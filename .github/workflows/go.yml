@@ -12,7 +12,7 @@ on:
  
 env:
   APP_DB_USERNAME: postgres
-  APP_DB_PASSWORD: postgres
+  APP_DB_PASSWORD: password
   APP_DB_NAME: postgres
 
 jobs:
