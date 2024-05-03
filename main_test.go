@@ -19,6 +19,7 @@ import (
 var a App
 
 ////docker run -it -p 5432:5432 -e POSTGRES_PASSWORD=password -d postgres
+//
 
 func TestMain(m *testing.M) {
 	a.Initialize(
